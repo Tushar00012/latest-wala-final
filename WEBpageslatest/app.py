@@ -50,7 +50,7 @@ def result():
 
 def register_faces(person_name, output_dir='faces'):
     # Your face registration logic (similar to the provided code)
-    # ...
+    # ...yaha pe dalna hai saara
     if not os.path.exists(person_name):
         os.makedirs(person_name)
 
